@@ -39,4 +39,5 @@ def main():
 
     quiz = Quiz(questions)
     quiz.run_quiz()
-  
+if __name__ == "__main__":
+    main()  
