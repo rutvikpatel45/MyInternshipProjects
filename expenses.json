@@ -1,0 +1,36 @@
+{
+    "2024-02-28": [
+      {"category": "retail", "amount": 200.0, "description": "bought groceries"}
+    ],
+    "2024-02-27": [
+      {"category": "transportation", "amount": 50.0, "description": "filled gas"},
+      {"category": "food", "amount": 30.0, "description": "lunch with friends"}
+    ],
+    "2024-02-26": [
+      {"category": "entertainment", "amount": 100.0, "description": "movie tickets"}
+    ],
+    "2024-02-25": [
+      {"category": "food", "amount": 20.0, "description": "dinner"}
+    ],
+    "2024-02-24": [
+      {"category": "transportation", "amount": 20.0, "description": "bus fare"},
+      {"category": "food", "amount": 15.0, "description": "breakfast"}
+    ],
+    "2024-02-23": [
+      {"category": "utilities", "amount": 50.0, "description": "electricity bill"}
+    ],
+    "2024-02-22": [
+      {"category": "healthcare", "amount": 80.0, "description": "doctor's appointment"}
+    ],
+    "2024-02-21": [
+      {"category": "food", "amount": 25.0, "description": "lunch"}
+    ],
+    "2024-02-20": [
+      {"category": "entertainment", "amount": 40.0, "description": "video game purchase"},
+      {"category": "food", "amount": 10.0, "description": "snacks"}
+    ],
+    "2024-02-19": [
+      {"category": "transportation", "amount": 15.0, "description": "taxi ride"}
+    ]
+  }
+  
